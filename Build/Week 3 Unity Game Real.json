@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Roll A Ball Tutorial",
+"dataUrl": "Week 3 Unity Game Real.data.unityweb",
+"asmCodeUrl": "Week 3 Unity Game Real.asm.code.unityweb",
+"asmMemoryUrl": "Week 3 Unity Game Real.asm.memory.unityweb",
+"asmFrameworkUrl": "Week 3 Unity Game Real.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
